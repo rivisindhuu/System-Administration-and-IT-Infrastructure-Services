@@ -84,11 +84,9 @@ The project also demonstrates understanding of:
 Apache Web Server
 
 Apache serves website files to users who access the server.
-
 Systemd
 
 Systemd manages system services like Apache.
-
 Localhost
 
 The server runs locally and is accessed using:
